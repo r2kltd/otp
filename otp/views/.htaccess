@@ -1,0 +1,6 @@
+AuthUserFile /home/username/secrets/.htpasswd
+AuthGroupFile /dev/null
+AuthName "You Shall Not Pass!!"
+AuthType Basic
+
+require user username
