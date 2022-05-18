@@ -16,6 +16,11 @@ When you send people sensitive info like passwords and private links via email o
 * Any recent Linux or windows platform that run PHP 7.2+ 
 * No DB required 
 
+// CronJob
+* run cronjob every 1 hour to file "cron.php"
+* syntax "0 * * * *"
+e.g: "0 * * * * wget -q -O - https://xxx.xxx.com/cron.php >/dev/null 2>&1"
+
 
 
 ## Install One-Time Secret

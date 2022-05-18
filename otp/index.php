@@ -7,16 +7,9 @@
 session_start();
  
 
+include_once(dirname(__FILE__).'/conf.php');
 
-
-//define paths
-define('DOMAIN_URL','https://otp.r2k.co.il/');//root path
-define('ABSPATH', dirname(__FILE__).'/');//root path
-define('HIDDENPATH',dirname(dirname(__FILE__)).'/hiddentunnel/');//path of folder to save the secrets
-define('NONCELIFETIME',3600); //for security reasons keep it as lower you can
-define('SESKEY','ugdhfudfhu'); //for security reasons change it to random string
-define('TIMEZONE','Asia/Jerusalem'); //https://www.php.net/manual/en/timezones.php
-
+ 
  
  
 
