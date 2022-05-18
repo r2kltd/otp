@@ -1,5 +1,13 @@
 <?php
+/*
+ONE TIME SHARE PASSWORD AND SECRET
+Version: 1.0
+Author: Khalil jarban
+*/
 session_start();
+ 
+
+
 
 //define paths
 define('DOMAIN_URL','https://otp.r2k.co.il/');//root path

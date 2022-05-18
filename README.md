@@ -13,8 +13,8 @@ When you send people sensitive info like passwords and private links via email o
 
 ## Dependencies
 
-* Any recent Linux or windows platform that run PHP 7.2+ *
-* No DB required *
+* Any recent Linux or windows platform that run PHP 7.2+ 
+* No DB required 
 
 
 
