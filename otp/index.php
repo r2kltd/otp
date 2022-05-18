@@ -1,9 +1,9 @@
 <?php
-/*
-ONE TIME SHARE PASSWORD AND SECRET
-Version: 1.0
-Author: Khalil jarban
-*/
+/**
+ *ONE TIME SHARE PASSWORD AND SECRET v1.0
+ * Copyright 2022 Khalil jarban r2k
+ * Licensed under: SEE LICENSE IN https://www.gnu.org/licenses/gpl-3.0.en.html
+ */
 session_start();
  
 
